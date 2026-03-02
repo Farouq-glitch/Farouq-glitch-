@@ -1,3 +1,5 @@
+<h1> Hey i am Farouq </h1>
+
 <h2>👨‍💻 About Me</h2>
 <p>
 I am a Software Developer in training at Techniek College Rotterdam.  
